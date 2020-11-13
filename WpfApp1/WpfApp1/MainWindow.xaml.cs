@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,6 +24,17 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
+
+            Button btnOk = new Button();
+            btnOk.Content = "확인";
+            btnOk.HorizontalAlignment = HorizontalAlignment.Center;
+            btnOk.VerticalAlignment = VerticalAlignment.Center;
+
+            Debug.WriteLine("=======>:" + btnOk.Name);
+
+            btnOk.Background = new SolidColorBrush(Color.FromRgb(0, 255, 0));
+
+            this.Content = btnOk;
         }
 
         private void button_Click(object sender, RoutedEventArgs e)

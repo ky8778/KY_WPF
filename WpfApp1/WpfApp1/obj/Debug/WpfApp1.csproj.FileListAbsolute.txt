@@ -5,7 +5,6 @@ C:\Users\SOOMIN\Desktop\MyGit\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyRe
 C:\Users\SOOMIN\Desktop\MyGit\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
 C:\Users\SOOMIN\Desktop\MyGit\WpfApp1\WpfApp1\obj\Debug\App.g.cs
 C:\Users\SOOMIN\Desktop\MyGit\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
-C:\Users\SOOMIN\Desktop\MyGit\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
 C:\Users\SOOMIN\Desktop\MyGit\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
 C:\Users\SOOMIN\Desktop\MyGit\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
 C:\Users\SOOMIN\Desktop\MyGit\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
