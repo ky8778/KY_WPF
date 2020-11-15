@@ -25,18 +25,17 @@ namespace WpfApp1
         {
             InitializeComponent();
 
+            // 방법 3
             Button btnOk = new Button();
             btnOk.Content = "확인";
             btnOk.HorizontalAlignment = HorizontalAlignment.Center;
             btnOk.VerticalAlignment = VerticalAlignment.Center;
-
             Debug.WriteLine("=======>:" + btnOk.Name);
-
             btnOk.Background = new SolidColorBrush(Color.FromRgb(0, 255, 0));
-
             this.Content = btnOk;
         }
 
+        // 방법 1
         private void button_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Button is clicked\nTest message for commit");

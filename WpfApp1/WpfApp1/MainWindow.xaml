@@ -3,13 +3,19 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="300" Width="400">
 
-    <!--<Grid>
-        <Button x:Name="button" Click="button_Click"  Content="확인" HorizontalAlignment="Center"
+    <!-- 방법 1
+    <Grid>
+        <Button x:Name="button"
+                Click="button_Click"
+                Content="확인"
+                HorizontalAlignment="Center"
                 VerticalAlignment="Center"
                 Background="Yellow"/>
-    </Grid>-->
+    </Grid>
+    -->
 
-    <!--<Grid>
+    <!-- 방법 2
+    <Grid>
         <Button x:Name="btnOkk">
             <Button.Content>
                 확인
@@ -18,8 +24,6 @@
                 <SolidColorBrush Color="#ff0000"/>
             </Button.Background>
         </Button>
-    </Grid>-->
-    <Grid>
-        
     </Grid>
+    -->
 </Window>

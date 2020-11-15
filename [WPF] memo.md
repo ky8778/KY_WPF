@@ -2,8 +2,8 @@
 
 ### XAML
 
-- WPF에서 사용자 Interface를 만드는 language
 - XML 기반 마크업 언어
+- WPF에서 사용자 Interface를 만드는 language
 - .Net 개체 인스턴스를 사람이 읽을 수 있는 형식으로 serialize하기 위한 언어
 
 - xaml을 제작할 때 루트 요소는 항상 두 개의 네임스페이스를 정의한다.
@@ -17,7 +17,7 @@
 
     접두사 `x:`는 xaml의 보다 일반적인 기능을 나타내며, 모든 종류의 데이터를 나타내는 데 사용할 수 있다.
 
-- 일반적으로 xaml의 요소는 클래스의 인스턴스이며 특성(attribute)은 해당개채의 속성(property)이다.
+- 일반적으로 xaml의 요소는 클래스의 인스턴스이며, 특성(attribute)은 해당개체의 속성(property)이다.
 
   - <Window> : Window class로 만들어진 인스턴스
 
