@@ -11,3 +11,4 @@
 - Setting IDE, install power tools
 
 - start WPF study, make project
+
