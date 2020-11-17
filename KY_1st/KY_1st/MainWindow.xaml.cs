@@ -24,5 +24,10 @@ namespace KY_1st
         {
             InitializeComponent();
         }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("This is First page!!");
+        }
     }
 }
